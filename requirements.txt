@@ -1,7 +1,7 @@
 selenium~=4.16.0
 webdriver-manager
 packaging
-numpy~=1.22.3
+numpy~=1.26.3
 pillow~=10.2.0
 requests~=2.31.0
 ddddocr~=1.4.8
