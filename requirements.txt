@@ -1,4 +1,4 @@
-selenium~=4.16.0
+selenium~=4.17.2
 webdriver-manager
 packaging
 numpy~=1.26.3
