@@ -3,5 +3,5 @@ webdriver-manager
 packaging
 numpy~=1.26.4
 pillow~=10.3.0
-requests~=2.31.0
+requests~=2.32.2
 ddddocr~=1.5.3
